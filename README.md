@@ -1,5 +1,6 @@
 # tartu-travelplanner
 Shiny app for bus travel in Tartu, a course project in Data Visualization course. <br>
+Source data downloaded from: https://avaandmed.eesti.ee/datasets/tartu-linna-uhistranspordi-peatuste-numbrid-ja-nimekiri-asukohad-ja-soiduplaanid <br>
 Hosted on: https://revilo47.shinyapps.io/travelplanner-shiny-tartu
 <br>
 
